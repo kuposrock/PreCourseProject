@@ -1,0 +1,61 @@
+article{
+    margin: 10px auto 30px auto;
+    border: 5px solid #555;
+    background: rgba(255,255,255,.2);
+    padding: 5px 10px 5px 10px;
+    border-radius: 50px;
+    width: 75%;
+    min-width: 500px;
+    vertical-align: middle;
+  text-decoration: none;
+  }
+  article:hover{
+  background: #555;
+  
+  }
+  p{
+  
+  }
+  h1{
+    font-size:40;
+    text-align: center;
+    padding:0;
+  }
+  img{
+    border: 5px solid #555;
+    width: 20%;
+    min-width: 150px;
+    float:left;
+    margin:10px 0px 0px 0px;
+    border-radius: 10px;
+    
+  }
+   a { 
+     text-decoration: none;
+    color:white;
+     }
+  body{
+    color:white;
+    background-image: url('https://wallpaperaccess.com/full/57200.jpg');
+    font-family: Tahoma, sans-serif;
+  }
+  .content_container{
+  margin:0px auto 0px auto;
+  width:90%;
+  max-width:800px;
+  padding: 10px;
+  border: 5px solid #555;
+  border-radius: 50px;
+  background: rgba(0,0,0,.5);
+  }
+
+ #car{
+     border: 3px solid #73AD21;
+     background-color: red;
+     width: 30px;
+     height: 50px;
+     position:absolute;
+     top:300px;
+     left:300px;
+
+ }
